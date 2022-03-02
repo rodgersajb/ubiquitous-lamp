@@ -6,4 +6,5 @@ body {
 button {
     padding: 5px 5px;
     text-transform: uppercase;
+    border: 6px dotted chocolate;
 }
