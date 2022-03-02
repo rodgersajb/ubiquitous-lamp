@@ -1,0 +1,9 @@
+body {
+    background: cadetblue;
+    color: aquamarine;
+}
+
+button {
+    padding: 5px 5px;
+    text-transform: uppercase;
+}
